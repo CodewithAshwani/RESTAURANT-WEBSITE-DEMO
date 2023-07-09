@@ -26,7 +26,7 @@ const Footer = () => (
         </p>
         <img
           src={images.spoon}
-          alt="iages_spoon"
+          alt="images_spoon"
           className="spoon__img"
           style={{ marginTop: 15 }}
         />
@@ -48,7 +48,7 @@ const Footer = () => (
 
     <div className="footer__copyright">
       <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
-      <p className="p__opensans">Created By Ashwani Gupta</p>
+      <p className="p__opensans">Designed By Ashwani Gupta</p>
     </div>
   </div>
 );
