@@ -1,81 +1,81 @@
-import images from './images';
+import images from "./images";
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: "Kadhaai Paneer",
+    price: "(₹)500",
+    tags: "AU | Full Plate",
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: "Veg Biryani",
+    price: "(₹)600",
+    tags: "AU | Full Plate",
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: "Chilli Paneer",
+    price: "(₹)400",
+    tags: "FR | Full Plate",
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: "Paneer Bhurji",
+    price: "(₹)300",
+    tags: "CA | Full Plate",
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: "Soya Chaap",
+    price: "(₹)40",
+    tags: "IE |Full Plate",
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: "Lemon Drop",
+    price: "(₹)200",
+    tags: "Half Short | 30 ML",
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: "Malt Julep-Whiskey",
+    price: "(₹)300",
+    tags: "Half Short | 50 ML",
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: "Dark & Stormy-Cold",
+    price: "(₹)320",
+    tags: "Half Short | 60 ML",
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: "Bloody Mary-Vodka ",
+    price: "(₹)350",
+    tags: "Half Short | 80 ML",
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: "Negroni",
+    price: "(₹)400",
+    tags: "Half Short | 100 ML",
   },
 ];
 
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: "Bib Gourmond",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: "Rising Star",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: "AA Hospitality",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: "Outstanding Chef",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
   },
 ];
 

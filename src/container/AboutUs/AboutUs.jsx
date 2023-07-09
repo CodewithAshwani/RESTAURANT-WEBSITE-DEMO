@@ -17,9 +17,10 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra
-          adipiscing ultrices vulputate posuere tristique. In sed odio nec
-          aliquet eu proin mauris et.
+          {" "}
+          If you are a foodie, you know you cannot live without eating. As a
+          person who loves to eat, it may be hard at times for you to control
+          yourself from eating, and that’s okay.{" "}
         </p>
         <button type="button" className="custom__button">
           Know More
@@ -34,9 +35,8 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat.
-          Risus placerat morbi volutpat habitasse interdum mi aliquam In sed
-          odio nec aliquet.
+          If you really want to make a friend, go to someone’s house and eat
+          with him… The people who give you their food give you their heart.
         </p>
         <button type="button" className="custom__button">
           Know More

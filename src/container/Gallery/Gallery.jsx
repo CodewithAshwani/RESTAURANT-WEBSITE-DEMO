@@ -31,8 +31,9 @@ const Gallery = () => {
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-          mattis ipsum turpis elit elit scelerisque egestas mu.
+          Every civilization revolves around food. Apart from the fact that food
+          is necessary for survival, eating draws people together to share their
+          lives and tales.
         </p>
         <button type="button" className="custom__button">
           View More
