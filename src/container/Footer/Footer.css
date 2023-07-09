@@ -67,6 +67,7 @@
 
 .footer__copyright {
   margin-top: 3rem;
+  text-align: center;
 }
 
 @media screen and (min-width: 2000px) {
@@ -101,4 +102,8 @@
   .app__footer-links_logo img:first-child {
     width: 80%;
   }
+}
+
+.footer__copyright p {
+  margin-bottom: 0;
 }
