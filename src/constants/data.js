@@ -59,23 +59,23 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: "Bib Gourmond",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Ernestine Ulmer",
+    subtitle: "Life is uncertain. Eat dessert first.",
   },
   {
     imgUrl: images.award01,
-    title: "Rising Star",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Miss Piggy",
+    subtitle: "Never eat more than you can life.",
   },
   {
     imgUrl: images.award05,
-    title: "AA Hospitality",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Alan D. Wolfelt",
+    subtitle: "Food is symbolic of love when words are inadequate.",
   },
   {
     imgUrl: images.award03,
-    title: "Outstanding Chef",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "W.C. Fields",
+    subtitle: "I cook with wine. Sometimes I even add it to the food.",
   },
 ];
 const data = { wines, cocktails, awards };
